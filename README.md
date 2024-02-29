@@ -1,7 +1,9 @@
 # toby-kidd-portfolio
 
 Machine Learning
+
 Monte Carlo Simulations
+
 Quantum Wave Packet Simulations
 
 Within my CV folder (GitHub CV), you will find two projects performing a Quantum Monte Carlo Simulation in Imaginary Time using the Metropolis Method, and the other simulating a quantum wave pocket in different potentials.
